@@ -1,0 +1,9 @@
+axes.titlesize : 12
+axes.labelsize : 20
+lines.linewidth : 0.8
+lines.color : r
+lines.markersize : 10
+xtick.labelsize : 9
+ytick.labelsize : 9
+figure.dpi: 300
+figure.figsize : 22, 4
